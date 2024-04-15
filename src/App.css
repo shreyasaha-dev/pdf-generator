@@ -1,0 +1,31 @@
+.form-container {
+  font-family: Arial, sans-serif;
+  max-width: 500px;
+  margin: auto;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-group label {
+  margin-right: 10px;
+}
+
+.input-name {
+  width: calc(100% - 80px);
+  padding: 5px;
+}
+
+.select-course {
+  width: 100px;
+  padding: 5px;
+}
+
+.btn-generate {
+  padding: 10px 15px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
